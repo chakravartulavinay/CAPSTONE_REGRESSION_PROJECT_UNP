@@ -1,13 +1,13 @@
-# Garment-Worker-Productivity-using-Machine-Learning
+# Concrete-Strength-Prediction-using-Machine-Learning
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP).
 Key highlights:
-- Studied and Analyzed the Garment worker productivity dataset to applying ML models and present my insights. 
+- Studied and Analyzed the Concrete Strength dataset to applying ML models and present my insights. 
 - Performed various Exploratory Data Analysis to understand the data and compare the variables.
-- Experimented with different Machine Learning algorithms, Linear Regression, Neural Networks, Bagging, and Boosting.
+- Experimented with different Machine Learning algorithms, Linear Regression, Bagging, and Boosting.
 - Compared the results to recommend the best Regression model. 
 
 COLAB NOTEBOOK LINK:
-https://github.com/MKPadmavathi/Garment-Worker-Productivity-using-Machine-Learning/blob/main/Garment_Worker_Productivity_Dataset_%20(1).ipynb
+https://colab.research.google.com/github/chakravartulavinay/CAPSTONE_REGRESSION_PROJECT_UNP/blob/main/Concrete_Strength_Prediction.ipynb
 
 PROJECT PRESENTATION LINK: 
-https://drive.google.com/file/d/1rnua6vbsrT4q7GL1pn1n1yXNhuu8Hify/view?usp=share_link
+https://docs.google.com/presentation/d/1pEt--qXWtIIyN9vrLlSDyve26BDiuqzjLCo9Soy4dhc/edit?usp=sharing
